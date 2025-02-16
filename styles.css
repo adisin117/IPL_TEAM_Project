@@ -1,4 +1,11 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
 .header{
+    border-radius: 15px;
     background-color: #333;
     color: #fff;
     padding: 10px 15px;
@@ -6,6 +13,7 @@
 }
 
 .teams{
+    border-radius: 15px;
     width: 500px;
     border: 5px solid #333;
     display: flex;
@@ -21,8 +29,8 @@
 }
 
 #dc{
-    background-color: #3D3BF3;
-    color: #FF2929;
+    background-color: #06054a;
+    color: #e42424;
     padding: 10px 15px;
     margin: 10px;
 }
@@ -42,8 +50,8 @@
 }
 
 #lsg{
-    background-color: #FF9933;
-    color: #004DFF;
+    background-color: navy;
+    color: orange;
     padding: 10px 15px;
     margin: 10px;
 }
@@ -78,7 +86,7 @@
 
 #srh{
     background-color: #FF9933;
-    color: #004DFF;
+    color: #000000;
     padding: 10px 15px;
     margin: 10px;
 } 
