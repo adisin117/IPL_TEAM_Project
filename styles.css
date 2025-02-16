@@ -97,3 +97,15 @@ body{
     padding: 10px 15px;
     text-align: center;
 }
+
+.franchise{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.navbar a{
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
